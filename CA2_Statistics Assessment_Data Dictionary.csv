@@ -1,0 +1,15 @@
+,missing_vals,blanks,type,description
+day,0,0,int,Day date
+month,0,0,int,Month of the Year
+year,0,0,int,Year
+Temperature,0,0,int,temperature noon (temperature max) in Celsius degrees: 22 to 42
+RH,0,0,int,Relative Humidity in %: 21 to 90
+Ws,0,0,int,Wind speed in km/h: 6 to 29
+Rain,0,133,float,total day in mm: 0 to 16.8
+FFMC,0,0,float,Fine Fuel Moisture Code index from the FWI system: 28.6 to 92.5
+DMC,0,0,float,Duff Moisture Code index from the FWI system: 1.1 to 65.9
+DC,0,0,float,Drought Code index from the FWI system: 7 to 220.4
+ISI,0,4,float,Initial Spread Index index from the FWI system: 0 to 18.5
+BUI,0,0,float,Buildup Index index from the FWI system: 1.1 to 68
+FWI,0,9,float,Fire Weather Index Index: 0 to 31.1
+Classes,0,0,string,"two classes, namely Fire and not Fire"
